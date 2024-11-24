@@ -1,0 +1,4 @@
+- node
+- ruby
+- add nvm
+- upgrade openssl or use better ruby to bypass ssl use
